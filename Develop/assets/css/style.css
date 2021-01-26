@@ -67,6 +67,16 @@ p {
 }
 
 /* detailed info */
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 .content {
     width: 75%;
     display: inline-block;
@@ -84,22 +94,15 @@ p {
 
 .info img {
     max-height: 200px;
-    position: absolute;
 }
 
-.detail {
-    padding: 0 55px;
-    width: 65%;
-    float: right;
-}
-
-.detail h2 {
+.info h2 {
     margin-bottom: 15px;
     font-size: 36px;
 }
 
-.detail p {
-    font-size: 15px;
+.info p {
+    font-size: 16px;
     line-height: 1.3;
 }
 
