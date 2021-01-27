@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Website
-https://tessaustin.github.io/Challenge-1-/
+https://tessaustin.github.io/challenge-1-/
 
 ## Description
 Website going over the best marketing techniques for your business. Describing how the search engine, online reputation and social media play into it. With that comes benefits such as customers come to you, the visibility through searches of your business, and how advertising cost decreases and rankings increase. 
